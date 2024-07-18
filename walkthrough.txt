@@ -1,0 +1,5 @@
+Run this: npx create-react-app authentication --template typescript
+Run this: npm install @auth0/auth0-react@2.2.4
+Run this: npm install react axios 
+Run this: npm install react-bootstrap bootstrap
+Run this: npm install react-router-dom
